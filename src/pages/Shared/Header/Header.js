@@ -53,7 +53,7 @@ const Header = () => {
             {" "}
             <FaSuperpowers />{" "}
           </span>
-          Power Pack
+          Power Hack
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
